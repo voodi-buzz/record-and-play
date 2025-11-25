@@ -1,0 +1,10 @@
+{
+  "startUrl": "https://www.youtube.com/",
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://www.youtube.com/",
+      "time": 1763622208432
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "startUrl": "https://www.google.com/search?q=icici+bank+careers&oq=&gs_lcrp=EgZjaHJvbWUqDwgBECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMg8IARAjGCcY6gIYgAQYigUyFQgCEC4YJxjHARjqAhjRAxiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigUyFwgIEAAYQhhDGLQCGOoCGIAEGIoFGOcGMhcICRAAGEIYQxi0AhjqAhiABBiKBRjnBjIXCAoQABhCGEMYtAIY6gIYgAQYigUY5wYyFwgLEAAYQhhDGLQCGOoCGIAEGIoFGOcG0gEJMTEyOGowajE1qAIMsAIB8QVZrZk-x0_JPQ&sourceid=chrome&ie=UTF-8",
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://www.google.com/search?q=icici+bank+careers&oq=&gs_lcrp=EgZjaHJvbWUqDwgBECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMg8IARAjGCcY6gIYgAQYigUyFQgCEC4YJxjHARjqAhjRAxiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigUyFwgIEAAYQhhDGLQCGOoCGIAEGIoFGOcGMhcICRAAGEIYQxi0AhjqAhiABBiKBRjnBjIXCAoQABhCGEMYtAIY6gIYgAQYigUY5wYyFwgLEAAYQhhDGLQCGOoCGIAEGIoFGOcG0gEJMTEyOGowajE1qAIMsAIB8QVZrZk-x0_JPQ&sourceid=chrome&ie=UTF-8",
+      "time": 1763623287147
+    },
+    {
+      "action": "navigate",
+      "url": "https://www.icicicareers.com/CareerApplicant/Career/Home/",
+      "time": 1763623288637
+    },
+    {
+      "action": "navigate",
+      "url": "https://www.icicicareers.com/CareerApplicant/Career/employee-value-proposition",
+      "time": 1763623291251
+    }
+  ]
+}

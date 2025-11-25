@@ -1,0 +1,20 @@
+{
+  "startUrl": "https://www.amazon.in/",
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://www.amazon.in/",
+      "time": 1763550246850
+    },
+    {
+      "action": "click",
+      "selector": "css=.hm-icon",
+      "time": 1763550250132
+    },
+    {
+      "action": "click",
+      "selector": "css=.nav-cart-icon",
+      "time": 1763550251746
+    }
+  ]
+}

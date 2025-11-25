@@ -1,0 +1,7 @@
+[
+  {
+    "time": 1763550449147,
+    "event": "run_error",
+    "detail": "org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. \nHost info: host: \u0027Archismans-MacBook-Pro.local\u0027, ip: \u00272409:40c0:106f:24a3:8dd0:69b:cfb7:486%en0\u0027"
+  }
+]

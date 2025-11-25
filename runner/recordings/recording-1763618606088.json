@@ -1,0 +1,25 @@
+{
+  "startUrl": "https://www.youtube.com/watch?v=0q30AfXfCTg",
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://www.youtube.com/watch?v=0q30AfXfCTg",
+      "time": 1763618596291
+    },
+    {
+      "action": "click",
+      "selector": "css=div.style-scope.ytd-item-section-renderer.style-scope.ytd-item-section-renderer:nth-child(3) > yt-lockup-view-model.ytd-item-section-renderer.lockup.yt-lockup-view-model--wrapper:nth-child(1) > div.yt-lockup-view-model.yt-lockup-view-model--horizontal.content-id-32uZXzaReiU.yt-lockup-view-model--compact.yt-lockup-view-model--flex-none > a.yt-lockup-view-model__content-image > yt-thumbnail-view-model.ytThumbnailViewModelHost.ytThumbnailViewModelAspectRatio16By9.ytThumbnailViewModelMedium > animated-thumbnail-overlay-view-model.ytAnimatedThumbnailOverlayViewModelHost > img.ytCoreImageHost.ytCoreImageFillParentHeight.ytCoreImageFillParentWidth.ytCoreImageContentModeScaleAspectFill.ytCoreImageLoaded",
+      "time": 1763618602613
+    },
+    {
+      "action": "navigate",
+      "url": "https://www.youtube.com/watch?v=32uZXzaReiU",
+      "time": 1763618602819
+    },
+    {
+      "action": "click",
+      "selector": "css=div.style-scope.ytd-watch-flexy > div.style-scope.ytd-watch-flexy:nth-child(2) > ytd-player.style-scope.ytd-watch-flexy > div.style-scope.ytd-player > div.html5-video-player.ytp-transparent.ytp-exp-bottom-control-flexbox.ytp-modern-caption.ytp-exp-ppp-update.ytp-livebadge-color.ytp-grid-scrollable.ytp-cards-teaser-dismissible.ytp-hide-info-bar.ytp-disable-bottom-gradient.ytp-delhi-modern.ytp-delhi-modern-icons.ytp-delhi-horizontal-volume-controls.ytp-delhi-modern-compact-controls.ytp-large-width-mode.ytp-fine-scrubbing-exp.ytp-fit-cover-video.ytp-hide-fullscreen-title.ytp-fullscreen-metadata-top.ytp-autonav-endscreen-cancelled-state.ad-created.playing-mode.buffering-mode.unstarted-mode > div.html5-video-container:nth-child(1) > video.video-stream.html5-main-video",
+      "time": 1763618603455
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "startUrl": "https://www.google.com/search?q=icici+bank+careers&oq=&gs_lcrp=EgZjaHJvbWUqDwgBECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMg8IARAjGCcY6gIYgAQYigUyFQgCEC4YJxjHARjqAhjRAxiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigXSAQkxNjY1ajBqMTWoAgiwAgHxBUQg9-oh3ilc&sourceid=chrome&ie=UTF-8",
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://www.google.com/search?q=icici+bank+careers&oq=&gs_lcrp=EgZjaHJvbWUqDwgBECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMg8IARAjGCcY6gIYgAQYigUyFQgCEC4YJxjHARjqAhjRAxiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigXSAQkxNjY1ajBqMTWoAgiwAgHxBUQg9-oh3ilc&sourceid=chrome&ie=UTF-8",
+      "time": 1763629122334
+    },
+    {
+      "action": "navigate",
+      "url": "https://www.icicicareers.com/CareerApplicant/Career/Home/",
+      "time": 1763629124319
+    },
+    {
+      "action": "navigate",
+      "url": "https://www.icicicareers.com/CareerApplicant/Career/employee-value-proposition",
+      "time": 1763629131769
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "time": 1763622378567,
+    "event": "driverStarted",
+    "detail": "local chrome (headless\u003dfalse)"
+  },
+  {
+    "time": 1763622378567,
+    "event": "run_start",
+    "detail": "D:\\icici\\project\\Record and play archis\\record-and-play-complete\\runner\\recordings\\recording-1763622368063.json mode\u003dlocal headless\u003dfalse"
+  },
+  {
+    "time": 1763622378570,
+    "event": "action_start",
+    "detail": "navigate  "
+  },
+  {
+    "time": 1763622378571,
+    "event": "navigate",
+    "detail": "https://www.google.com/search?q\u003dicici+bank+careers\u0026oq\u003d\u0026gs_lcrp\u003dEgZjaHJvbWUqDwgDECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMhUIARAuGCcYxwEY6gIY0QMYgAQYigUyDwgCECMYJxjqAhiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigXSAQkzMTc1ajBqMTWoAgiwAgHxBcXjdupPP3vw\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8"
+  },
+  {
+    "time": 1763622383637,
+    "event": "action_end",
+    "detail": "navigate"
+  },
+  {
+    "time": 1763622383637,
+    "event": "action_start",
+    "detail": "navigate  "
+  },
+  {
+    "time": 1763622383637,
+    "event": "navigate",
+    "detail": "https://www.icicicareers.com/CareerApplicant/Career/Home/"
+  },
+  {
+    "time": 1763622396215,
+    "event": "action_end",
+    "detail": "navigate"
+  },
+  {
+    "time": 1763622396215,
+    "event": "action_start",
+    "detail": "navigate  "
+  },
+  {
+    "time": 1763622396215,
+    "event": "navigate",
+    "detail": "https://www.icicicareers.com/CareerApplicant/Career/employee-value-proposition"
+  },
+  {
+    "time": 1763622402757,
+    "event": "action_end",
+    "detail": "navigate"
+  },
+  {
+    "time": 1763622402757,
+    "event": "run_finished",
+    "detail": "success"
+  }
+]

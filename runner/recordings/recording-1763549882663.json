@@ -1,0 +1,10 @@
+{
+  "startUrl": "https://iciciuat.newspacemgmt.com/spacemanagementV2/#/login",
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://iciciuat.newspacemgmt.com/spacemanagementV2/#/login",
+      "time": 1763549872007
+    }
+  ]
+}

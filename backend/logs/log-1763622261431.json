@@ -1,0 +1,32 @@
+[
+  {
+    "time": 1763622253955,
+    "event": "driverStarted",
+    "detail": "local chrome (headless\u003dfalse)"
+  },
+  {
+    "time": 1763622253955,
+    "event": "run_start",
+    "detail": "D:\\icici\\project\\Record and play archis\\record-and-play-complete\\runner\\recordings\\recording-1763622217278.json mode\u003dlocal headless\u003dfalse"
+  },
+  {
+    "time": 1763622253959,
+    "event": "action_start",
+    "detail": "navigate  "
+  },
+  {
+    "time": 1763622253959,
+    "event": "navigate",
+    "detail": "https://www.youtube.com/"
+  },
+  {
+    "time": 1763622261430,
+    "event": "action_end",
+    "detail": "navigate"
+  },
+  {
+    "time": 1763622261430,
+    "event": "run_finished",
+    "detail": "success"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "time": 1763618767025,
+    "event": "run_error",
+    "detail": "org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. \nHost info: host: \u0027DESKTOP-DELL\u0027, ip: \u0027172.20.10.5\u0027"
+  }
+]

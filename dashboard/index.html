@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Record & Play Dashboard</title>
+<style>
+body{font-family:system-ui;margin:20px}
+button{margin:6px}
+#log{white-space:pre-wrap;background:#111;color:#0f0;padding:12px;height:240px;overflow:auto}
+</style>
+</head>
+<body>
+  <h1>Record & Play - Dashboard</h1>
+  <div>
+    <button id="refresh">Refresh recordings</button>
+    <select id="list" style="width:400px"></select>
+    <button id="run">Run selected</button>
+  </div>
+  <h3>Run output</h3>
+  <div id="log">not running</div>
+
+<script>
+async function refresh(){
+  const r = await fetch('http://localhost:3000/recordings');
+  const list = await r.json();
+  const sel = document.getElementById('list');
+  sel.innerHTML = '';
+  list.forEach(f=>{
+    const o = document.createElement('option');
+    o.value = f; o.textContent = f;
+    sel.appendChild(o);
+  });
+}
+document.getElementById('refresh').onclick = refresh;
+document.getElementById('run').onclick = async ()=>{
+  const sel = document.getElementById('list');
+  if (!sel.value) return alert('pick a file');
+  document.getElementById('log').textContent = 'Starting...';
+  const r = await fetch('http://localhost:3000/run', {
+    method:'POST', headers:{'Content-Type':'application/json'},
+    body: JSON.stringify({file: sel.value})
+  });
+  const j = await r.json();
+  document.getElementById('log').textContent = JSON.stringify(j,null,2);
+};
+refresh();
+</script>
+</body>
+</html>

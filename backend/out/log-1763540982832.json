@@ -1,0 +1,42 @@
+[
+  {
+    "time": 1763540903667,
+    "event": "driverStarted",
+    "detail": "remote http://localhost:4444 browser\u003dchrome"
+  },
+  {
+    "time": 1763540903667,
+    "event": "run_start",
+    "detail": "/Users/archismanbasu/Downloads/record-and-play-complete/runner/recordings/recording-1763540881373.json mode\u003dremote headless\u003dfalse"
+  },
+  {
+    "time": 1763540903669,
+    "event": "action_start",
+    "detail": "navigate  "
+  },
+  {
+    "time": 1763540903669,
+    "event": "navigate",
+    "detail": "about:blank"
+  },
+  {
+    "time": 1763540906712,
+    "event": "action_end",
+    "detail": "navigate"
+  },
+  {
+    "time": 1763540906713,
+    "event": "action_start",
+    "detail": "click css\u003d#login_email_input "
+  },
+  {
+    "time": 1763540906736,
+    "event": "recover_navigate",
+    "detail": "about:blank"
+  },
+  {
+    "time": 1763540982831,
+    "event": "run_error",
+    "detail": "java.lang.RuntimeException: All click strategies failed for: By.cssSelector: #login_email_input"
+  }
+]

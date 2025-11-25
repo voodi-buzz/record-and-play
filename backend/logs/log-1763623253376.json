@@ -1,0 +1,27 @@
+[
+  {
+    "time": 1763623253156,
+    "event": "driverStarted",
+    "detail": "local chrome (headless\u003dfalse)"
+  },
+  {
+    "time": 1763623253156,
+    "event": "run_start",
+    "detail": "D:\\icici\\project\\Record and play archis\\record-and-play-complete\\runner\\recordings\\recording-1763622368063.json mode\u003dlocal headless\u003dfalse"
+  },
+  {
+    "time": 1763623253162,
+    "event": "action_start",
+    "detail": "navigate  "
+  },
+  {
+    "time": 1763623253162,
+    "event": "navigate",
+    "detail": "https://www.google.com/search?q\u003dicici+bank+careers\u0026oq\u003d\u0026gs_lcrp\u003dEgZjaHJvbWUqDwgDECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMhUIARAuGCcYxwEY6gIY0QMYgAQYigUyDwgCECMYJxjqAhiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigXSAQkzMTc1ajBqMTWoAgiwAgHxBcXjdupPP3vw\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8"
+  },
+  {
+    "time": 1763623253376,
+    "event": "run_error",
+    "detail": "org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED\n  (Session info: chrome\u003d142.0.7444.175)\nBuild info: version: \u00274.15.0\u0027, revision: \u00271d14b5521b\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002717.0.12\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [dee7e97c297678299deb9125801b8e92, get {url\u003dhttps://www.google.com/search?q\u003dicici+bank+careers\u0026oq\u003d\u0026gs_lcrp\u003dEgZjaHJvbWUqDwgDECMYJxjqAhiABBiKBTIPCAAQIxgnGOoCGIAEGIoFMhUIARAuGCcYxwEY6gIY0QMYgAQYigUyDwgCECMYJxjqAhiABBiKBTIPCAMQIxgnGOoCGIAEGIoFMg8IBBAjGCcY6gIYgAQYigUyDwgFECMYJxjqAhiABBiKBTIPCAYQIxgnGOoCGIAEGIoFMg8IBxAjGCcY6gIYgAQYigXSAQkzMTc1ajBqMTWoAgiwAgHxBcXjdupPP3vw\u0026sourceid\u003dchrome\u0026ie\u003dUTF-8}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.175, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\\Users\\DELL\\AppData\\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:5753}, goog:processID: 21424, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:5753/devtool..., se:cdpVersion: 142.0.7444.175, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: dee7e97c297678299deb9125801b8e92"
+  }
+]
