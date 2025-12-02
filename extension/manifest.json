@@ -4,7 +4,6 @@
   "version": "1.0",
   "description": "Record user actions (navigate/click/type) and upload recordings to local backend.",
   "permissions": [
-    "scripting",
     "tabs",
     "storage",
     "activeTab",
